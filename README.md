@@ -1,1 +1,6 @@
-# Dapur-Mimi
+Profil dan Sejarah Berdirinya Dapur Mimi
+Dapur Mimi merupakan usaha mikro, kecil, dan menengah (UMKM) yang bergerak di bidang jasa catering rumahan. Usaha ini didirikan pada tahun 2025, berawal dari hobi dan keterampilan memasak yang dimiliki oleh pendirinya dalam memenuhi kebutuhan konsumsi keluarga sehari-hari.
+Seiring berjalannya waktu, kualitas rasa yang konsisten, kebersihan dalam proses pengolahan, serta penggunaan bahan-bahan yang terjaga mutunya membuat masakan Dapur Mimi mendapatkan respon positif dari lingkungan sekitar. Hal ini mendorong berkembangnya usaha dari skala rumahan menjadi usaha catering yang mulai menerima pesanan untuk berbagai kegiatan, seperti arisan, syukuran, dan kebutuhan konsumsi harian.
+Dalam proses pengembangannya, Dapur Mimi terus melakukan inovasi pada variasi menu yang ditawarkan, di antaranya paket nasi ayam serundeng, paket nasi pecel ayam, serta paket nasi kuning yang ditujukan untuk berbagai acara. Selain itu, pelayanan yang ramah, ketepatan waktu, serta komitmen terhadap kepuasan pelanggan menjadi nilai utama dalam menjalankan usaha ini.
+Hingga saat ini, Dapur Mimi terus berupaya meningkatkan kualitas produk dan layanan guna memperluas jangkauan pasar serta memperkuat posisinya sebagai salah satu penyedia catering rumahan yang terpercaya di wilayah Kota Cilegon dan sekitarnya.
+Dengan semangat kewirausahaan dan komitmen terhadap kualitas, Dapur Mimi diharapkan dapat terus berkembang secara berkelanjutan serta memberikan kontribusi positif terhadap perekonomian masyarakat lokal.# Dapur-Mimi
