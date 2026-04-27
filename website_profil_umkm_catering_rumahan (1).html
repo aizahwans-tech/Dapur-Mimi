@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dapur Mimi - Catering Rumahan</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      background: #fff7f5;
+      color: #333;
+    }
+
+    header {
+      background: linear-gradient(135deg, #ffb6a3, #ffd6cc);
+      color: #5a2d2d;
+      padding: 30px;
+      text-align: center;
+      animation: fadeIn 1.5s ease-in-out;
+    }
+
+    nav {
+      background: #ffffff;
+      padding: 10px;
+      text-align: center;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    nav a {
+      color: #ff7043;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 30px;
+      animation: fadeUp 1s ease;
+    }
+
+    .menu {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 15px;
+      width: 220px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+    }
+
+    .btn {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 10px 15px;
+      background: #ff7043;
+      color: white;
+      border-radius: 8px;
+      text-decoration: none;
+    }
+
+    footer {
+      background: #ffb6a3;
+      color: #5a2d2d;
+      text-align: center;
+      padding: 15px;
+    }
+
+    @keyframes fadeIn {
+      from {opacity: 0;}
+      to {opacity: 1;}
+    }
+
+    @keyframes fadeUp {
+      from {opacity: 0; transform: translateY(20px);} 
+      to {opacity: 1; transform: translateY(0);} 
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Dapur Mimi</h1>
+  <p>Catering Rumahan Lezat, Higienis & Terjangkau</p>
+</header>
+
+<nav>
+  <a href="#about">Tentang</a>
+  <a href="#menu">Menu</a>
+  <a href="#contact">Kontak</a>
+</nav>
+
+<section id="about">
+  <h2>Tentang Kami</h2>
+  <p>Dapur Mimi adalah UMKM catering rumahan yang menyediakan makanan lezat dengan cita rasa rumahan, higienis, dan cocok untuk berbagai acara seperti arisan, syukuran, dan kebutuhan harian.</p>
+</section>
+
+<section id="menu">
+  <h2>Menu Andalan</h2>
+  <div class="menu">
+
+    <div class="card">
+      <h3>Paket Nasi Ayam Serundeng</h3>
+      <p>Enak dan gurih dengan taburan serundeng</p>
+    </div>
+
+    <div class="card">
+      <h3>Paket Nasi Pecel Ayam</h3>
+      <p>Ayam dengan sambal pecel khas</p>
+    </div>
+
+    <div class="card">
+      <h3>Paket Nasi Kuning</h3>
+      <p>Cocok untuk acara spesial</p>
+    </div>
+
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Kontak</h2>
+  <p>WhatsApp: 083892776176</p>
+  <p>Alamat: Link. Kranggot RT 01/RW 04, Kec. Jombang, Kel. Sukmajaya, Kota Cilegon</p>
+  <a class="btn" href="https://wa.me/6283892776176" target="_blank">Pesan via WhatsApp</a>
+</section>
+
+<footer>
+  <p>&copy; 2026 Dapur Mimi</p>
+</footer>
+
+</body>
+</html>
